@@ -17,7 +17,7 @@ python scaffold.py
 - [x] **5.** count_word_frequencies
 - [x] **6.** build_vocabulary
 - [x] **7.** tokens_to_bow
-- [ ] **8.** corpus_to_bow_matrix
+- [x] **8.** corpus_to_bow_matrix
 - [ ] **9.** compute_document_frequencies
 - [ ] **10.** compute_idf
 - [ ] **11.** transform_tfidf
