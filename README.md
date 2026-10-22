@@ -32,7 +32,7 @@ python scaffold.py
 - [x] **20.** predict_labels
 - [ ] **21.** confusion_counts
 - [x] **22.** metrics_from_counts
-- [ ] **23.** tune_decision_threshold
+- [x] **23.** tune_decision_threshold
 - [ ] **24.** evaluate_predictions
 - [ ] **25.** vectorize_texts
 - [ ] **26.** predict_text
