@@ -16,7 +16,7 @@ python scaffold.py
 - [x] **4.** split_train_val_test_indices
 - [x] **5.** count_word_frequencies
 - [x] **6.** build_vocabulary
-- [ ] **7.** tokens_to_bow
+- [x] **7.** tokens_to_bow
 - [ ] **8.** corpus_to_bow_matrix
 - [ ] **9.** compute_document_frequencies
 - [ ] **10.** compute_idf
