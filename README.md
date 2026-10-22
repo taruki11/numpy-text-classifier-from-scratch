@@ -23,7 +23,7 @@ python scaffold.py
 - [x] **11.** transform_tfidf
 - [x] **12.** fit_tfidf
 - [x] **13.** sigmoid
-- [ ] **14.** logistic_predict_proba
+- [x] **14.** logistic_predict_proba
 - [ ] **15.** binary_cross_entropy
 - [ ] **16.** logistic_gradients
 - [ ] **17.** initialize_logistic_params
