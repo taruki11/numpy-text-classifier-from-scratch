@@ -31,7 +31,7 @@ python scaffold.py
 - [x] **19.** train_logistic_regression
 - [x] **20.** predict_labels
 - [ ] **21.** confusion_counts
-- [ ] **22.** metrics_from_counts
+- [x] **22.** metrics_from_counts
 - [ ] **23.** tune_decision_threshold
 - [ ] **24.** evaluate_predictions
 - [ ] **25.** vectorize_texts
