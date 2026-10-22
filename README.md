@@ -14,7 +14,7 @@ python scaffold.py
 - [x] **2.** tokenize
 - [x] **3.** tokenize_corpus
 - [x] **4.** split_train_val_test_indices
-- [ ] **5.** count_word_frequencies
+- [x] **5.** count_word_frequencies
 - [ ] **6.** build_vocabulary
 - [ ] **7.** tokens_to_bow
 - [ ] **8.** corpus_to_bow_matrix
