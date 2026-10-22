@@ -33,7 +33,7 @@ python scaffold.py
 - [ ] **21.** confusion_counts
 - [x] **22.** metrics_from_counts
 - [x] **23.** tune_decision_threshold
-- [ ] **24.** evaluate_predictions
+- [x] **24.** evaluate_predictions
 - [ ] **25.** vectorize_texts
 - [ ] **26.** predict_text
 - [ ] **27.** collect_prediction_errors
